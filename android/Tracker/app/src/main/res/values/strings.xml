@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upload">Upload</string>
+    <string name="welcome_header">Distributed Systems\n2022–2023\nAthanasios Trifonis 3200298\nMarios Gordios 3180036\nStefanos Pilatis 3180264</string>
+    <string name="file_selection">Select the files that will get uploaded.</string>
+    <string name="button_login">Login</string>
+    <string name="button_test_connection">Upload</string>
+</resources>
